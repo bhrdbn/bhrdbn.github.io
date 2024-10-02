@@ -12,5 +12,6 @@ venue: 'Published in NeurIPS'
 paperurl: #'https://openreview.net/pdf?id=UVSKuh9eK5'
 ---
 
+![Main figure of the paper](../images/trodo.png)
 <!-- [Download paper here]([http://academicpages.github.io/files/paper1.pdf](https://openreview.net/pdf?id=UVSKuh9eK5)) -->
 
