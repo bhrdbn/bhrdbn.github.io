@@ -1,5 +1,5 @@
 ---
-title: "Head TA of Fundamental programming"
+title: "Head TA of Fundamental Programming"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/fp
