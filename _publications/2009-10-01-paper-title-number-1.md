@@ -2,7 +2,7 @@
 title: "Scanning Trojaned Models Using Out-of-Distribution Samples"
 collection: publications
 permalink: /publication/trodo
-excerpt: 'In this work, we designed a novelty detection method which is robust to style shifts in the data distribution. By distinguishing between core features and style features and using a teacher-student scheme, we were able to achieve state-of-the-art results on various dataset pairs.'
+excerpt: 'In this work, we’ve introduced TRODO, a new method for detecting backdoor attacks in deep neural networks. TRODO identifies trojans by adversarially shifting out-of-distribution (OOD) samples toward in-distribution (ID) and detecting when classifiers mistakenly classify them as ID. This approach is effective even without training data and works against adversarially trained trojaned classifiers, making it adaptable across different scenarios and datasets.'
 
 date: 2024/10/13
 venue: 'Published in NeurIPS'
